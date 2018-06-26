@@ -1,0 +1,23 @@
+Authors: Reza Bosagh Zadeh, Andreas Zollmann
+
+This corpus contains the minutes and statements of the Federal Open Market Committee meetings. All available at 
+
+http://www.federalreserve.gov/monetarypolicy/fomc.htm
+
+These minutes were gathered from all meetings of the committee from 1967 to 2008 inclusive.
+
+minutes:
+	Details and description of meeting happenings, released a 2-3 weeks after the meeting occured.
+
+	raw: pdf and htm files from which text was obtained
+	txt: text of all meeting minutes
+	stemmed: stemmed and stop words removed from text files
+
+
+statements:
+	Concise abstracts of the meetings released immediately after the meetings.
+
+	raw: htm files from which text was obtained
+	txt: text of all meeting minutes
+	stemmed: stemmed and stop words removed from text files
+	
